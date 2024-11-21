@@ -6,7 +6,9 @@ This project focuses on the comprehensive analysis of the Olympic Games dataset,
 
 **Objective**
 
-The primary objective is to explore patterns and trends in Olympic Games data, answer key questions about participation, performance, and global representation, and provide data-driven recommendations for stakeholders. The analysis aims to:
+The primary objective is to explore patterns and trends in Olympic Games data, answer key questions about participation, performance, and global representation, and provide data-driven recommendations for stakeholders.
+
+The analysis aims to:
 
 Investigate factors influencing athlete performance and medal outcomes.
 Understand demographic trends and regional dominance in sports.
