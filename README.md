@@ -1,5 +1,9 @@
 **Olympic Games Analysis Project 🏅**
 
+**by Aniket Roy** 
+<br>
+<br>
+
 **Overview**
 
 This project focuses on the comprehensive analysis of the Olympic Games dataset, leveraging exploratory data analysis (EDA), Power BI visualizations, and structured reporting to derive actionable insights. The dataset spans various dimensions of the Olympics, including athletes, sports, events, medals, and countries, offering a historical perspective and highlighting trends in performance, participation, and inclusivity.
