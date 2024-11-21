@@ -37,28 +37,43 @@ Logical breakdown of analytical categories (Competitor, Country, Games, Event, M
 Key Analyses and Insights
 
 1. Competitor Analysis
+ 
 Demographics: Trends in athlete age, gender, height, and weight over time.
+
 Participation Trends: Steady increase in athlete participation, with significant growth in events after the 1980s.
+
 Performance History: Identification of top-performing athletes and regions in specific sports.
 
 2. Country Analysis
+   
 Regional Insights: Growth in NOC participation, with over 200 countries now represented in the Summer Olympics.
+
 Medal Trends: Dominance of the USA, Soviet Union, and Germany across multiple decades.
+
 Cultural Specialization: Countries like Kenya excelling in long-distance running, Japan in Judo, and Canada in Ice Hockey.
 
 3. Games Analysis
+   
 Hosting Patterns: Europe has historically hosted the majority of Olympic Games, though recent editions have diversified geographically.
+
 Event Growth: Significant increase in the number of events, particularly in the Summer Olympics.
+
 Attendance and Inclusivity: Growing representation of women and mixed-gender events.
 
 4. Event Analysis
+   
 Popularity Trends: Athletics and Swimming dominate in terms of event count and participant numbers.
+
 Gender Representation: Steady growth in women's events and inclusion of mixed-gender competitions.
+
 Event Categorization: Introduction of new sports and discontinuation of less popular events reflect evolving global interests.
 
 5. Medal Analysis
+
 Historical Trends: Significant growth in medals awarded over time, driven by new events and sports.
+
 Top Performers: The USA leads in total medals and gold medals, followed by the Soviet Union and Germany.
+
 Disparities: Regions like Africa and South America are emerging contributors to the medal tally.
 
 Technologies Used
